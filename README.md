@@ -1,4 +1,4 @@
 # BOJ
 
 ### My profile
-[solved.ac 바로가기](https://solved.ac/profile/son2071)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=son2071)](https://solved.ac/son2071)
